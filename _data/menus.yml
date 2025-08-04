@@ -10,6 +10,9 @@ topmenu:
 - title: Contact
   url: "contact/"
 
+- title: 2005最佳AI工具
+  url: "best-ai-tools-2005/"
+
 # Footer Menu
 footermenu:
 
