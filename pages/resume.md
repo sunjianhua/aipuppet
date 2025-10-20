@@ -7,6 +7,7 @@ permalink: /resume/
 ## 👤 About Me
 
 email: 2697723626@qq.com
+
 github: https://github.com/sunjianhua
 
 ### Professional Summary
