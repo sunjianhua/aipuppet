@@ -25,9 +25,8 @@ In most projects, I have served as a **Client Developer**, and in two smaller pr
 **Role:** Full-time Client & Server Developer  
 **Engine:** Unreal Engine  
 **Languages:** C++, Blueprints  
-**Achievement:** Independently implemented a major open-world gameplay feature  
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1rem;">
+<div style="display:grid;grid-template-columns:repeat(auto-fit);gap:1rem;">
   <iframe src="https://www.youtube.com/embed/z4U6XCEZ9W8" frameborder="0" allowfullscreen></iframe>
 </div>
 
