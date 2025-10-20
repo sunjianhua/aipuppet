@@ -6,6 +6,9 @@ permalink: /resume/
 
 ## 👤 About Me
 
+email: 2697723626@qq.com
+github: https://github.com/sunjianhua
+
 ### Professional Summary
 Over the past decade, I have been engaged in **Unreal Engine–based game development**, from **UE4.5** up to **UE5.x**.  
 I have developed **mobile games**, **PC games**, **VR projects**, as well as **Unreal Editor plugins and extensions**.  
