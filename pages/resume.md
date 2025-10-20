@@ -20,6 +20,8 @@ In most projects, I have worked as a **Client Developer**, and in two smaller pr
 
 ## 💼 Project Experience
 
+Below are several project demonstrations I participated in, where I primarily served as a client-side developer and, in multiple projects, was responsible for handling skill-related tasks.
+
 ### 📱 Platform: Mobile Game
 **Project Type:** Survival + Zombie Combat + Base Building  
 **Role:** Full-time Client & Server Developer  
