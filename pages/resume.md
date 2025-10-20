@@ -26,8 +26,12 @@ In most projects, I have served as a **Client Developer**, and in two smaller pr
 **Engine:** Unreal Engine  
 **Languages:** C++, Blueprints  
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(600px,1fr));gap:1rem;">
-  <iframe src="https://www.youtube.com/embed/z4U6XCEZ9W8" frameborder="0" allowfullscreen></iframe>
+<div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;">
+  <iframe src="https://www.youtube.com/embed/nK9tOo2BjzM" 
+          style="position:absolute;top:0;left:0;width:100%;height:100%;" 
+          frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
 </div>
 
 ---
