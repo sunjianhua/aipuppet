@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Professional Resume"
+permalink: /resume/
+---
+
 ## 👤 About Me
 
 ### Professional Summary
@@ -145,3 +151,5 @@ In most projects, I have worked as a **Client Developer**, and in two smaller pr
           allowfullscreen>
   </iframe>
 </div>
+
+---
