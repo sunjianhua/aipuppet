@@ -26,7 +26,7 @@ In most projects, I have served as a **Client Developer**, and in two smaller pr
 **Engine:** Unreal Engine  
 **Languages:** C++, Blueprints  
 
-<div style="display:grid;grid-template-columns:repeat(auto-fit);gap:1rem;">
+<div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(600px,1fr));gap:1rem;">
   <iframe src="https://www.youtube.com/embed/z4U6XCEZ9W8" frameborder="0" allowfullscreen></iframe>
 </div>
 
